@@ -1,5 +1,7 @@
 package objectAnalyzer;
 
+import demo.Employee;
+
 import java.util.ArrayList;
 
 public class ObjectAnalyzerTest {
@@ -11,5 +13,10 @@ public class ObjectAnalyzerTest {
         }
 
         System.out.println(new ObjectAnalyzer().toString(squares));
+//        ArrayList<Employee> staff = new ArrayList<>();
+//        ArrayList list = staff;
+//        ArrayList res = new ArrayList();
+//        @SuppressWarnings("unchecked") ArrayList<Employee> test = (ArrayList<Employee>) res;
+
     }
 }

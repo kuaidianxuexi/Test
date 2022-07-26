@@ -1,8 +1,5 @@
 package objectAnalyzer;
 
-import abstractClasses.Person;
-
-import javax.imageio.plugins.tiff.TIFFImageReadParam;
 import java.lang.reflect.AccessibleObject;
 import java.lang.reflect.Array;
 import java.lang.reflect.Field;
